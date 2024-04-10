@@ -10,8 +10,9 @@
 
 
 ### 🔨 Capabilities:
-- **Frameworks & Libraries:** Primarily use vue.js, currently exploring react
 - Front-end web technologies are too complex to list comprehensively.
+- **Frameworks & Libraries:** Primarily use vue.js, currently exploring react
+
 
 
 ### 💼 Experience:
@@ -21,12 +22,13 @@
 
 
 ### ✨ My space:
-- 🌐 Website: [ingridkao](https://www.ingridkao.net)
-- 🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371?pvs=4)
+🌐 Website: [ingridkao](https://www.ingridkao.net)
+
+🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371?pvs=4)
 
 
-# GitHub Stats
+### GitHub Stats
 
-!![ingridkao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridkao&theme=discord_old_blurple&show_icons=true&hide=prs,issues)
+![ingridkao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridkao&theme=discord_old_blurple&show_icons=true&hide=prs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridkao&size_weight=0.5&count_weight=1.5&layout=compact&theme=discord_old_blurple&card_width=467)
 
