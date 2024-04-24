@@ -1,12 +1,22 @@
 ## Hi I'm ingrid kao
 👋哈囉，我是高小龜🐢
 
+
+
+### ✨ My space:
+🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371)
+
+🌐 Website: [ingridkao](https://www.ingridkao.net)
+
+
+
 ### 🧬 Interests:
 - 🧳 Traveling to different countries for short trips, but still prefer to live in Taiwan.
 - 📚 Reading and avidly taking summary notes.
 - ✍ Enjoy planning and often use the GTD method.
 - 🎨 Although no longer engaged in artistic creation, still enjoy observing.
 - 🦉 Sharing knowledge with those in need.
+
 
 
 ### 🔨 Capabilities:
@@ -19,12 +29,6 @@
 - **2016-2021**: Developed geospatial data management systems and dashboards in the IoT industry
 - **2021-2023**: Worked on data visualization platforms and official websites in a data analysis team
 - **2023-Present**: Developing lifestyle-related applications in the convenience store industry
-
-
-### ✨ My space:
-🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371)
-
-🌐 Website: [ingridkao](https://www.ingridkao.net)
 
 
 
