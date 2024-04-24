@@ -22,11 +22,10 @@
 
 
 ### ✨ My space:
-🖊️  Notion: [ingridkao Lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371)
+🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371)
 
 🌐 Website: [ingridkao](https://www.ingridkao.net)
 
-🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371?pvs=4)
 
 
 ### GitHub Stats
