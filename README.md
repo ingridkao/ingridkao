@@ -2,11 +2,6 @@
 👋哈囉，我是高小龜🐢
 
 
-
-### ✨ My space:
-🧠 Notion: [My lobby](https://ingridkao.notion.site/Lobby-47427ffdf7094c3c94009bab1ad8a371)
-
-
 ### 🧬 Interests:
 - 🧳 Traveling to different countries for short trips, but still prefer to live in Taiwan.
 - 📚 Reading and avidly taking summary notes.
